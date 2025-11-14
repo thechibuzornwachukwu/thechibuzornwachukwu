@@ -63,9 +63,3 @@ I build web apps and small tooling that help people solve real problems. I enjoy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourhandle)
 
 ---
-
-## How to use this README (copy to your profile)
-
-1. Create a repository named exactly the same as your GitHub username (for example, `chibuzornwachukwu`).
-2. Add this file as `README.md` in that repo.
-3. Edit the contact links and skill levels to match your profile.
