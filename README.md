@@ -31,7 +31,7 @@
 
 ## What I do
 
-I build web apps and small tooling that help people solve real problems. I enjoy learning new stacks and turning ideas into simple, reliable products.
+I solve real problems. I enjoy learning new stacks and turning ideas into simple, reliable products.
 
 ## Skills
 
@@ -52,12 +52,6 @@ I build web apps and small tooling that help people solve real problems. I enjoy
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 
 ---
-
-## GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thechibuzornwachukwu&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thechibuzornwachukwu&layout=compact&theme=default)
-
 ## 📫 Contact
 
 <!--[![Website](https://img.shields.io/badge/Portfolio-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](https://your-portfolio.example)-->
