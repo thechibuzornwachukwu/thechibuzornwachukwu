@@ -1,5 +1,3 @@
-![Banner](assets/banner.svg)
-
 # Chibuzor Nwachukwu
 AI Governance & Responsible AI · AI Engineer · Product & Brand Strategist
 Lagos, Nigeria
