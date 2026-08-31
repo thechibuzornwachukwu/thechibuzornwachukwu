@@ -1,64 +1,70 @@
+![Banner](assets/banner.svg)
 
-![Banner](assets/banner.gif)
+# Chibuzor Nwachukwu
+AI Governance & Responsible AI · AI Engineer · Product & Brand Strategist
+Lagos, Nigeria
 
-<!-- <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#ff8a00">
-        <animate attributeName="offset" values="0%;100%;0%" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#e52e71">
-        <animate attributeName="offset" values="0%;100%;0%" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#7b2ff7">
-        <animate attributeName="offset" values="0%;100%;0%" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="140" fill="url(#g)" />
-  <text x="60" y="85" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="36" fill="white">👋 Hi, I’m <tspan font-weight="700">chibuzornwachukwu</tspan></text>
-  <text x="60" y="115" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.9)">Web-focused dev • Python & Machine Learning learner • I build practical apps</text>
-</svg> -->
+I work at the point where AI systems get built and where they get governed. My background covers AI product management, AI engineering, brand strategy, and data science, which means I can sit in a model review and a governance review without switching vocabularies.
 
-# whoami
+Current focus:
+- AI governance and risk management
+- Responsible AI and governance-by-design
+- Operational AI oversight and monitoring
+- Translating AI policy into product and engineering requirements
 
-- 👋 Hi, I’m **@chibuzornwachukwu**
-- 👀 I’m interested in everyone, everything; a bit more into websites though
-- 🌱 I’m currently learning to ship meaningful and scalable solutions
-- 💞️ I’m looking to collaborate on future facing products
+I write on this at [Mission to Scale](https://missiontoscale.substack.com), covering agentic system failure modes, adversarial robustness, and the institutional gaps that show up once AI systems are already deployed. Twelve-plus articles, over a thousand subscribers.
 
 ---
 
-## What I do
+## Experience
 
-I solve real problems. I enjoy learning new stacks and turning ideas into simple, reliable products.
+**AI Safety & Governance Researcher, Mission To Scale** (Mar 2025 – Present)
+Publish research on AI governance, safety, and frontier-risk questions. Built frameworks for classifying and monitoring AI systems across their lifecycle, translating technical developments into governance questions for organizations and institutions.
+
+**AI Engineer & Analytics Innovation Manager, DecisionSpaak** (Sep 2025 – Jan 2026)
+Built recommendation, analysis, and classification pipelines combining embeddings, rules, and structured AI flows. Designed production AI systems for reliability and traceability, working across engineering and product to reduce runtime failures.
+
+**AI Product Manager, Valor AI** (Nov 2024 – Jan 2026)
+Translated agricultural business problems into product requirements and ML features. Led product lifecycle from concept through model training to prototype deployment, including a computer vision system for fruit identification and disease classification. Also led brand and visual identity for the company.
+
+**Data Scientist & Analyst, Wema Bank Plc.** (May 2024 – Oct 2024)
+Built Power BI reporting used by compliance and operations teams. Developed and tuned Random Forest and Logistic Regression models reaching 88%+ precision and recall. Supported NDPA- and GDPR-aligned data governance across 500,000+ customer records.
+
+**Data Scientist, Metis Analytics** (Apr 2023 – Mar 2024)
+Built geospatial data pipelines with Python and GeoPandas. Developed LLM-assisted workflows for geospatial research and automated data collection.
+
+---
 
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style-for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style-for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+**Governance & Policy:** AI Governance · AI Risk Management · Responsible AI · Data Governance (NDPA/GDPR-aligned) · AI Policy Translation
 
 ---
+
+## Certifications
+- Product Management Certification
+- Data Analyst Associate
+- Data Literacy Certification
+- Data Governance Fundamentals
+
+---
+
 ## 📫 Contact
 
-<!--[![Website](https://img.shields.io/badge/Portfolio-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](https://your-portfolio.example)-->
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:chibuzordev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/thechibuzornwachukwu)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white&style=for-the-badge)](https://www.behance.net/thechibuzornwachukwu)
-
-
----
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:thechibuzornwachukwu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thechibuzornwachukwu)
+[![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white&style=for-the-badge)](https://thechibuzornwachukwu.com)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white&style=for-the-badge)](https://missiontoscale.substack.com)
